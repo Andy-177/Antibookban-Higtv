@@ -1,0 +1,4 @@
+name: Antibookban
+version: '${version}'
+main: paper.plugin.antibookban.Antibookban
+api-version: 1.21.3
